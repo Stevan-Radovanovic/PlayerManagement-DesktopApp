@@ -1,0 +1,11 @@
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\SystemOperations.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\SystemOperations.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\BrokerBase.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\Domain.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\BrokerBase.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\bin\Debug\Domain.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\obj\Debug\SystemOperations.csprojAssemblyReference.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\obj\Debug\SystemOperations.csproj.CoreCompileInputs.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\obj\Debug\SystemOperations.csproj.CopyComplete
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\obj\Debug\SystemOperations.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\SystemOperations\obj\Debug\SystemOperations.pdb

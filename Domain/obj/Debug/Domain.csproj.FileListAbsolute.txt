@@ -1,0 +1,6 @@
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\bin\Debug\Domain.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\bin\Debug\Domain.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\obj\Debug\Domain.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\Domain\obj\Debug\Domain.pdb

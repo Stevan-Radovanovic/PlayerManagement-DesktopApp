@@ -1,0 +1,13 @@
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\AppController.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\AppController.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\Domain.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\Domain.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\obj\Debug\AppController.csprojAssemblyReference.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\obj\Debug\AppController.csproj.CoreCompileInputs.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\obj\Debug\AppController.csproj.CopyComplete
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\obj\Debug\AppController.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\obj\Debug\AppController.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\BrokerBase.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\BrokerBase.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\SystemOperations.dll
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\AppController\bin\Debug\SystemOperations.pdb

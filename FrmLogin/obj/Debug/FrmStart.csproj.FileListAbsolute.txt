@@ -1,0 +1,10 @@
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmStart.csprojAssemblyReference.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmLogin.FrmStart.resources
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmStart.csproj.GenerateResource.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmStart.csproj.CoreCompileInputs.cache
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\StevanMcfc\source\repos\FootballClubManagement\FrmLogin\obj\Debug\FrmLogin.pdb
